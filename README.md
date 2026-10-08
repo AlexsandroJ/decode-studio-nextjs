@@ -80,13 +80,14 @@ Funcionalidades Principais
 ✅ Persistência local (localStorage)
 
 ✅ Log completo de requisições
+
 ![dashboard](public\img\dash.png)
 
-![dashboard](public\img\sensores.png)
+![sensores](public\img\sensores.png)
 
-![dashboard](public\img\bytes.png)
+![bytes](public\img\bytes.png)
 
-![dashboard](public\img\decode.png)
+![decode](public\img\decode.png)
 
 
 ### 2. Stack Tecnológica

@@ -159,7 +159,7 @@ export default function ViewPanel() {
                 className="w-16 bg-transparent text-text-bright font-mono text-xs focus:outline-none"
                 value={refreshInterval}
                 onChange={(e) => setRefreshInterval(parseInt(e.target.value) || 1000)}
-                min={100} 
+                min={1} 
                 max={60000}
                 step={100}
               />
